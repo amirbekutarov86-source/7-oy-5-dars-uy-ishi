@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 15",
+    "price": 999,
+    "category": "Telefon",
+    "description": "Apple smartfoni, 128 GB",
+    "stock": 12,
+    "createdBy": 1,
+    "createdAt": "2026-11-03T12:12:26.560Z",
+    "updatedAt": "2026-11-03T12:12:26.560Z"
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S24",
+    "price": 899,
+    "category": "Telefon",
+    "description": "Samsung flagman smartfoni",
+    "stock": 8,
+    "createdBy": 1,
+    "createdAt": "2026-11-03T12:12:26.560Z",
+    "updatedAt": "2026-11-03T12:12:26.560Z"
+  },
+  {
+    "id": 3,
+    "name": "MacBook Air M2",
+    "price": 1199,
+    "category": "Noutbuk",
+    "description": "13 dyuymli yengil noutbuk",
+    "stock": 5,
+    "createdBy": 1,
+    "createdAt": "2026-11-03T12:12:26.560Z",
+    "updatedAt": "2026-11-03T12:12:26.560Z"
+  },
+  {
+    "id": 4,
+    "name": "AirPods Pro",
+    "price": 249,
+    "category": "Quloqchin",
+    "description": "Shovqinni yutuvchi simsiz quloqchin",
+    "stock": 20,
+    "createdBy": 1,
+    "createdAt": "2026-11-03T12:12:26.560Z",
+    "updatedAt": "2026-11-03T12:12:26.560Z"
+  }
+]
